@@ -19,14 +19,7 @@ Core Competencies: Data Modelling and Star Schema | Dashboard Development | Repo
 
 Aircraft Engine Accrual & Cost Performance - A Power BI project analysing aircraft engine accrual costs, utilisation and financial performance across a synthetic multi-aircraft fleet.
 
-Key areas:
-
-Star schema data modelling
-DAX measures and financial calculations
-Actual vs forecast analysis
-Engine-level cost efficiency
-Interactive fleet performance dashboard
-Repository coming soon.
+Key areas: Star schema data modelling, DAX measures and financial calculations, Actual vs forecast analysis, Engine-level cost efficiency, Interactive fleet performance dashboard.
 
 🎓 Certifications
 
