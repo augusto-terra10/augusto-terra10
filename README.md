@@ -71,6 +71,3 @@ A Power BI project analysing aircraft engine accrual costs, utilisation and fina
 - **LinkedIn:** [Add your LinkedIn profile URL](#)
 - **GitHub:** [augusto-terra10](https://github.com/augusto-terra10)
 
----
-
-*Turning data into meaningful business insights.*
