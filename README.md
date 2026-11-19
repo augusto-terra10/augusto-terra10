@@ -1,6 +1,6 @@
 # Hi, I'm Augusto Terra 👋
 
-### Business Intelligence Analyst | Power BI | DAX | SQL | Alteryx | Data Analytics
+### Business Intelligence Analyst | Tableau | Power BI | DAX | SQL | Alteryx | Data Analytics
 
 I'm a Business Intelligence and Data Analytics professional with experience developing reporting solutions, building data models and automating processes to transform complex data into meaningful business insights.
 
