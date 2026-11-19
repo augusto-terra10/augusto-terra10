@@ -54,15 +54,31 @@ A Power BI project analysing aircraft engine accrual costs, utilisation and fina
 
 [View Project Repository](https://github.com/augusto-terra10/aircraft-engine-accrual-analysis)
 
+
+### Employee Transfers Financial Analysis
+
+A Power BI portfolio project exploring employee transfers, travel-related allowances and Fringe Benefits Tax (FBT) exposure through operational and financial reporting.
+
+**Key areas:**
+- Employee transfer analysis.
+- FBT and tax reporting.
+- Allowance expenditure analysis.
+- Financial performance monitoring.
+- DAX and data modelling.
+- Interactive Power BI reporting.
+
+[View Project Repository](https://github.com/augusto-terra10/employee-transfers-financial-analysis)
+
+
 ---
 
 ## 🎓 Certifications
 
-- Microsoft Certified: Power BI Data Analyst Associate
-- Microsoft Certified: Fabric Analytics Engineer Associate
-- Tableau Certified Data Analyst
-- Alteryx Designer Core
-- Alteryx Designer Advanced
+- [Microsoft Certified: Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/en-us/users/augustoterra-5855/credentials/64d1e81ce423d2b3?ref=https%3A%2F%2Fwww.linkedin.com/)
+- [Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)](https://learn.microsoft.com/en-us/users/augustoterra-5855/credentials/a253a12a7ad8ac9b?ref=https%3A%2F%2Fwww.linkedin.com/)
+- [Tableau Certified Data Analyst](https://www.credly.com/badges/ca6c3b4f-bbb5-47c0-bc5b-535a56211333/public_url)
+- [Alteryx Designer Core](https://www.credly.com/badges/66f411ab-b6e6-48ee-b3b0-09072af1d017/public_url)
+- [Alteryx Designer Advanced](https://www.credly.com/badges/3927578c-4418-43cd-9f0c-efacdba7c426/public_url)
 
 ---
 
