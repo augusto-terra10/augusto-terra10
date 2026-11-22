@@ -21,7 +21,6 @@ My approach is centred on understanding business needs, solving data challenges 
 ### Data & Programming
 - SQL
 - Python
-- R
 - Excel
 
 ### Data Transformation & Platforms
