@@ -7,6 +7,7 @@ I'm a Business Intelligence and Data Analytics professional focused on transform
 I have experience developing interactive dashboards and reporting solutions, working with data models, analysing complex datasets and automating reporting processes. I enjoy combining analytical thinking with technical skills to identify trends, improve data quality, streamline workflows and deliver reliable information to business stakeholders.
 
 My approach is centred on understanding business needs, solving data challenges and turning information into clear, actionable insights.
+
 ---
 
 ## 🛠️ Technical Skills
