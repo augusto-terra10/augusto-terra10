@@ -70,6 +70,19 @@ A Power BI portfolio project exploring employee transfers, travel-related allowa
 
 [View Project Repository](https://github.com/augusto-terra10/employee-transfers-financial-analysis)
 
+### LEGO Product Portfolio Analysis
+
+An interactive Power BI dashboard exploring LEGO product discovery, portfolio classification, historical release trends and pricing analysis.
+
+**Key features:** 
+- Product Finder
+- Decomposition Tree
+- Price Distribution
+- Historical Trends
+- Interactive Filtering.
+
+[View Project](https://github.com/augusto-terra10/lego-product-analysis)
+
 
 ---
 
