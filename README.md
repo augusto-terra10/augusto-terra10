@@ -81,7 +81,7 @@ An interactive Power BI dashboard exploring LEGO product discovery, portfolio cl
 - Historical Trends
 - Interactive Filtering.
 
-[View Project](https://github.com/augusto-terra10/lego-product-analysis)
+[View Project Repository](https://github.com/augusto-terra10/lego-product-analysis)
 
 
 ---
