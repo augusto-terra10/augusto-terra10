@@ -97,7 +97,7 @@ An interactive Tableau dashboard exploring the creative talent behind Pixar’s 
 
 [View Project Repository](https://github.com/augusto-terra10/pixar-people-performance-tableau)
 
-[Tableau Public Projects](https://public.tableau.com/app/profile/augusto.terra5581/vizzes)
+[Tableau Public Projects](https://public.tableau.com/app/profile/augusto.terra5581/vizzes) - Under development
 
 ---
 
