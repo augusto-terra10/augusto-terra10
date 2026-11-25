@@ -40,7 +40,7 @@ My approach is centred on understanding business needs, solving data challenges 
 
 ---
 
-## 📊 Featured Projects
+## 📊 Featured Power BI Projects
 
 ### Aircraft Engine Accrual & Cost Performance
 
@@ -83,6 +83,21 @@ An interactive Power BI dashboard exploring LEGO product discovery, portfolio cl
 
 [View Project Repository](https://github.com/augusto-terra10/lego-product-analysis)
 
+## 📊 Featured Tableau Projects
+
+### Pixar People & Performance
+
+An interactive Tableau dashboard exploring the creative talent behind Pixar’s films and their box office performance.
+
+**Key Features:**
+- Creative role and contributor exploration
+- Contributor film portfolio analysis
+- Budget and worldwide box office comparison
+- Interactive film poster gallery with contributor tooltips
+
+[View Project Repository](https://github.com/augusto-terra10/pixar-people-performance-tableau)
+
+[Tableau Public Projects](https://public.tableau.com/app/profile/augusto.terra5581/vizzes)
 
 ---
 
