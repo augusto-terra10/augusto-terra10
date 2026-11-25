@@ -90,14 +90,14 @@ An interactive Power BI dashboard exploring LEGO product discovery, portfolio cl
 An interactive Tableau dashboard exploring the creative talent behind Pixar’s films and their box office performance.
 
 **Key Features:**
-- Creative role and contributor exploration
-- Contributor film portfolio analysis
-- Budget and worldwide box office comparison
+- Explore creative contributors by role
+- Discover contributors’ film portfolios
+- Compare film budgets and worldwide box office performance
 - Interactive film poster gallery with contributor tooltips
 
 [View Project Repository](https://github.com/augusto-terra10/pixar-people-performance-tableau)
 
-[Tableau Public Projects](https://public.tableau.com/app/profile/augusto.terra5581/vizzes) - Under development
+[Tableau Public Projects](https://public.tableau.com/app/profile/augusto.terra5581/vizzes) - *Under development*
 
 ---
 
